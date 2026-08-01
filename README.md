@@ -1,101 +1,52 @@
-<h1 align="center">Hi 👋, I'm Axel Andree Pérez Reyes</h1>
-<h3 align="center">Full-Stack Engineer • Shopify Expert • Backend & Realtime Systems</h3>
+<h1 align="center">Hi, I'm Axel Andree Pérez Reyes</h1>
+<h3 align="center">Senior Shopify Developer · Plus · Integrations · Guadalajara, MX</h3>
 
 <p align="center">
-  I build scalable products, high-performance e-commerce platforms, and real-time systems that solve real business problems.
+  I lead Shopify Plus delivery end to end — themes, Checkout Extensibility, Admin/Storefront APIs, and the backends that connect stores to ERP, 3PL, and tax systems.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-axel-perezs-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:andreereyes0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/axel-andree"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-## ⚡ About Me
+### About
 
-- 💻 Full-Stack Engineer focused on **Backend Architecture & E-commerce**
-- 🛍️ Shopify specialist — building stores **from zero to production**
-- ⚙️ Backend developer using **Node.js, NestJS & GraphQL**
-- 📱 Mobile developer with **Flutter & Clean Architecture**
-- 🔄 Real-time systems (WebSockets, WebRTC signaling)
-- 🤖 Exploring **AI workflows, agents & automation**
-- 🌎 Working with international teams in English (B2 Professional)
+- 🛍️ **Senior Shopify Developer** at BefraGroup (Betterware, Jafra, Tupperware) — multi-brand **Shopify Plus**
+- 🧩 Technical partner, not only theme edits — pick the right Shopify tools for the problem
+- ⚙️ Go backends, webhooks, ERP (SAP/AS400), multi-country **3PL**, Avalara tax flows
+- 🌎 Remote-ready · English for client and vendor calls · based in Guadalajara
 
-I don't just use technologies — I design solutions that **increase performance, scalability, and revenue**.
+### Stack
 
----
+**Shopify Plus** · Liquid · Online Store 2.0 · Checkout Extensibility · Admin UI / Customer Account UI · GraphQL Admin & Storefront APIs · Metafields · Webhooks · Shopify Flow  
 
-## 🧠 What I Build
+**Backend** · Go · Node/TypeScript · PostgreSQL · Redis · AWS (Lambda, Cognito, S3, ECS)
 
-✅ Scalable APIs & Microservices  
-✅ Shopify Apps & Custom Integrations  
-✅ Real-time Communication Platforms  
-✅ E-commerce Mobile Apps  
-✅ Automation Systems & Backend Workflows  
-✅ SEO-optimized Shopify Stores (B2B + DTC)
+### Featured work
 
----
+| Project | Focus |
+|---------|--------|
+| **[axel-shopify-lab](https://github.com/BlackIcee1234/axel-shopify-lab)** | Public lab: OS 2.0 theme + Shopify app + Go API (+ AWS-ready) |
+| **Jafra USA / multi-brand Plus** | Highest-revenue store maintenance, tax & checkout correctness |
+| **Avalara + Cart Transform + Simple Bundles** | Retail-price tax base across discounted lines and bundle children |
+| **Snappy Embedded Marketplace** | VIP gifting flow on storefront (outside Checkout) |
 
-## 🛠️ Tech Stack
+### Currently
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
-
-### Frontend & Web
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Shopify Ecosystem
-- Shopify Liquid (Online Store 2.0)
-- Storefront API
-- Admin API
-- Shopify Functions
-- Shopify Flow
-- Custom Apps
-- Checkout Extensions
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-
-- Clean Architecture
-- Riverpod
-- Supabase
-- Payment integrations
-
-### Cloud & Tools
-- AWS Lambda
-- S3
-- Azure
-- Docker
-- GitHub Actions
-- CI/CD workflows
-
----
-
-## 🔥 Highlight Projects
-
-### 🛒 Shopify E-commerce Platforms
-- Built multi-region stores with multi-language & multi-currency
-- Custom Liquid sections & performance optimizations
-- Backend integrations improving checkout and automation flows
-
-### ⚡ Realtime Communication Gateway
-- WebSocket Gateway using NestJS
-- Room management & signaling system (WebRTC)
-- Custom event architecture & guards
-
-### 📱 E-commerce Mobile App
-- Flutter app with payments, analytics, inventory & checkout flows
-- Supabase backend with Edge Functions & PostgreSQL
-
----
-
-## 📈 Engineering Philosophy
+Building in public with **axel-shopify-lab** — a complete Shopify sandbox for themes, apps, webhooks, and Go/AWS endpoints.
 
 ```text
-Clean Architecture > Quick Fixes
-Scalability > Temporary Solutions
-Automation > Manual Work
-Impact > Complexity
+Theme (OS 2.0)  →  Dev Store  →  Shopify App
+                       ↓
+                 Go API / AWS
+              webhooks · ERP sync demo
+```
+
+### Contact
+
+Open to **full-time remote LATAM** Shopify roles (or hybrid GDL).  
+✉️ andreereyes0@gmail.com · 🌐 [portfolio](https://portfolio-axel-perezs-projects.vercel.app)
